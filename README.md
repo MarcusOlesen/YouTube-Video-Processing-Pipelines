@@ -96,14 +96,6 @@ Navigate to CPU_VM_folder and run the transcription pipeline.
 4. **Feature Extraction**
 Run the respective notebooks for audio, visual, and motion analysis.
 
-## Data Flow
-
-1. Start with video metadata extraction
-2. Detect languages and filter for high confidence
-3. Process transcriptions
-4. Extract audio/visual/motion features
-5. Combine results in final analysis
-
 
 # AU-DATALAB
 
